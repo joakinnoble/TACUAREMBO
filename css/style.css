@@ -1352,7 +1352,7 @@ ul.timeline {
 }
 
 .timeline .timeline-item p {
-	color: rgba(255, 255, 255, 0);
+	color: rgb(255, 255, 255);
 }
 
 .timeline .timeline-item span {
